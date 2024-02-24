@@ -62,12 +62,17 @@ I look forward to sharing my latest findings and contributing to the advancement
 
     - [**Project Link**](https://github.com/hushenwei2000/rvv-atg) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
 
+- **GreenRio: A Linux-compatible RISC-V Processor (SSCS "Code-a-Chip" Competition)**
+
+    - A 64-bit, dual-issue, out-of-order RISC-V microprocessor completely designed with a open-source EDA flow.
+
 - **Bug Owner Analysis based on Git Log**
 
     - Designed and implemented a cutting-edge solution for bug tracking and accountability within the Git commit logs and core dump stack trace, optimizing the efficiency of bug identification and resolution. 
 
 
 # 🎖 Honors and Awards
+- *2023.01* SSCS "Code-a-Chip" Competition - First Prize 
 - *2022.12* RISC-V Summit’22 Student Grant Award 
 - *2022.06* Outstanding Graduate of Sichuan Province 
 - *2022.06* Outstanding Graduate Thesis  
