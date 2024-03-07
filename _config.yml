@@ -6,8 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shenwei Hu"
-description              : "2nd year master student in Data Science and Information Technology at Tsinghua University"
+title                    : "Home | Shenwei Hu's Awesome Site"
+tagline                  : "Shenwei Hu's Awesome Site | RISC-V, RIOS Lab, Tsinghua University"
+description              : "Shenwei Hu is in RISC-V Open-Source Laboratory (RIOS Lab), TBSI, SIGS, Tsinghua University. His research interests include binary translation, RVV, computer architecture, hardware security, and computer systems."
 repository               : "hushenwei2000/hushenwei2000.github.io"
 google_scholar_stats_use_cdn : false
 
