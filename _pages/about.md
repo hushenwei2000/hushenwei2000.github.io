@@ -89,7 +89,7 @@ I look forward to sharing my latest findings and contributing to the advancement
 
 # 💻 Work Experiences
 - *2020.06 - 2020.09*, Tencent Technology Co.,LTD., Summer Intern, China.
-- *2021.02 - 2021.08*, a leading technology company, Software Engineer Intern, China.
+- *2021.02 - 2021.08*, A leading technology company, Software Engineer Intern, China.
 
 
 [Last Update: 20/Jan./2024]
