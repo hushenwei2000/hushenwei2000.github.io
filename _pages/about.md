@@ -19,16 +19,15 @@ redirect_from:
 
 Welcome to my homepage! I am Shenwei Hu (胡深威), currently pursuing a Master's degree at Tsinghua University. My focus lies in the areas of Binary Translation, RISC-V  Toolchain, and Compiler development, with guidance provided by the supervisors at <a href='https://www.rioslab.org/'>RISC-V International Open-Source (RIOS) Lab</a>. I am a member of the <a href="https://github.com/orgs/riscv-admin/teams/riscv-devpartner-partners">RISC-V Technical Members</a> and actively involved in developing innovative solutions to bridge the gap of building RISC-V economy.
 
-I look forward to sharing my latest findings and contributing to the advancement of the field through my work. Feel free to explore my projects and reach out to me if you'd like to connect and chat more about them!
+Feel free to explore my projects and reach out to me if you'd like to connect and chat with me!
 
-**I am currently seeking opportunities to pursue a Ph.D. program starting in Fall 2025.** 
 
 # 📖 Educations
 - *2022.09 - 2025.06*, Tsinghua University, M.Sc. in Data Science and Information Technology. 
 - *2018.09 - 2022.06*, University of Electronic Science and Technology of China, B.Eng. in Software Engineering. 
 
 # 💬 Invited Talks
-- *2021.03*, Automatic Test Generation and Verification for RISC-V Vector Extension @ RISC-V Summit'22.  \| [\[video\]](https://www.youtube.com/watch?v=7zKgAIhIHbk&pp=ygUJc2hlbndlaWh1)
+- *2022.12*, Automatic Test Generation and Verification for RISC-V Vector Extension @ RISC-V Summit'22.  \| [\[video\]](https://www.youtube.com/watch?v=7zKgAIhIHbk&pp=ygUJc2hlbndlaWh1)
 
 <!-- # 🔥 News
 - *2022.10*: &nbsp;🎉🎉 My proposal "Automatic Test Generator for RISC-V Vector Extension" has been accepted by RISC-V Summit'22!  -->
@@ -52,9 +51,11 @@ I look forward to sharing my latest findings and contributing to the advancement
 
 # 💻 Projects 
 
-- **An Intelligent Binary Translation Framework (Master Research Topic)**
+- **An Binary Translation Framework (Master Research Topic)**
 
     - A binary translation tool aims at automatically learning instruction rules between assembly and LLVM IR, and translating guest binaries to host. Including preprocess, learning, verification and translation parts. 
+
+    - Key words: binary translation/rewrite/recompilation, binary analysis
 
 - **Automatic Test Generator for RISC-V Vector Extension (Open-source Project)**
 
@@ -62,13 +63,19 @@ I look forward to sharing my latest findings and contributing to the advancement
 
     - [**Project Link**](https://github.com/hushenwei2000/rvv-atg) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
 
+    - Key words: chip verification, automatic testing
+
 - **GreenRio: A Linux-compatible RISC-V Processor (SSCS "Code-a-Chip" Competition)**
 
     - A 64-bit, dual-issue, out-of-order RISC-V microprocessor completely designed with a open-source EDA flow.
 
+    - Key words: computer architecture, microprocessor design
+
 - **Bug Owner Analysis based on Git Log**
 
     - Designed and implemented a cutting-edge solution for bug tracking and accountability within the Git commit logs and core dump stack trace, optimizing the efficiency of bug identification and resolution. 
+
+    - Key words: software engineering, automatic testing
 
 
 # 🎖 Honors and Awards
@@ -81,18 +88,17 @@ I look forward to sharing my latest findings and contributing to the advancement
 - *2021.12* First Prize Scholarship of UESTC 
 - *2020.12* First Prize Scholarship of UESTC 
 - *2019.12* First Prize Scholarship of UESTC 
-- *2021.06* LanQiaoBei Program Design and Algorithm Contest - National Third Prize 
-- *2021.13* Zhejiang University Programming Ability Test Advanced Level - Full Mark 
+<!-- - *2021.06* LanQiaoBei Program Design and Algorithm Contest - National Third Prize  -->
+- *2021.03* Zhejiang University Programming Ability Test Advanced Level - Full Mark 
 - *2020.06* Mathematical Contest In Modeling - Meritorious Winner
 
 
 
 # 💻 Work Experiences
-- *2020.06 - 2020.09*, Tencent Technology Co.,LTD., Summer Intern, China.
-- *2021.02 - 2021.08*, A leading technology company, Software Engineer Intern, China.
+- *2020.06 - 2020.08*, Tencent Technology Co.,LTD., Summer Intern, China.
 
 
-[Last Update: 20/Jan./2024]
+[Last Update: 10/Jun./2024]
 <br />
 <br />
 <br />
