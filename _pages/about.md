@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my homepage! I am Shenwei Hu (胡深威), currently pursuing a Master's degree at Tsinghua University. My focus lies in the areas of Binary Translation, RISC-V  Toolchain, and Compiler development, with guidance provided by the supervisors at <a href='https://www.rioslab.org/'>RISC-V International Open-Source (RIOS) Lab</a>. I am a member of the <a href="https://github.com/orgs/riscv-admin/teams/riscv-devpartner-partners">RISC-V Technical Members</a> and actively involved in developing innovative solutions to bridge the gap of building RISC-V economy.
+Welcome to my homepage! I am Shenwei Hu (胡深威), currently working as a ML Systems Engineer at the <a href='https://github.com/PaddlePaddle/Paddle/'>PaddlePaddle</a> Team, Baidu Inc.. Previously, I pursued a Master's degree at Tsinghua University, where my focus lay in the areas of Binary Translation, RISC-V Toolchain, and Compiler development, under the guidance of the supervisors at <a href='https://www.rioslab.org/'>RISC-V International Open-Source (RIOS) Lab</a>. I was a member of the <a href="https://github.com/orgs/riscv-admin/teams/riscv-devpartner-partners">RISC-V Technical Members</a> and actively involved in developing innovative solutions to bridge the gap of building the RISC-V economy.
 
 Feel free to explore my projects and reach out to me if you'd like to connect and chat with me!
 
@@ -50,6 +50,12 @@ Feel free to explore my projects and reach out to me if you'd like to connect an
 
 
 # 💻 Projects 
+
+- **Paddle - An Open-Source Deep Learning Platform**
+
+    - PaddlePaddle is an end-to-end open-source deep learning platform developed by Baidu. It provides a comprehensive set of tools and libraries for building, training, and deploying deep learning models.
+
+    - My job includes: design and optimize distributed LLM training frameworks, profile and accelerate distributed GPU workloads, debug distributed training jobs, integrate state-of-the-art training methods, etc..
 
 - **An Binary Translation Framework (Master Research Topic)**
 
@@ -95,10 +101,12 @@ Feel free to explore my projects and reach out to me if you'd like to connect an
 
 
 # 💻 Work Experiences
+- *2025.07 - Now*, Baidu, Inc., Software Engineer, China.
+- *2024.06 - 2024.08*, Tencent Technology Co.,LTD., Summer Intern, China.
 - *2020.06 - 2020.08*, Tencent Technology Co.,LTD., Summer Intern, China.
 
 
-[Last Update: 10/Jun./2024]
+[Last Update: 6/Mar./2026]
 <br />
 <br />
 <br />
