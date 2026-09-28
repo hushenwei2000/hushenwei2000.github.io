@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my homepage! I am Shenwei Hu (胡深威), currently working as a ML Systems Engineer at the <a href='https://github.com/PaddlePaddle/Paddle/'>PaddlePaddle</a> Team, Baidu Inc.. Previously, I pursued a Master's degree at Tsinghua University, where my focus lay in the areas of Binary Translation, RISC-V Toolchain, and Compiler development, under the guidance of the supervisors at <a href='https://www.rioslab.org/'>RISC-V International Open-Source (RIOS) Lab</a>. I was a member of the <a href="https://github.com/orgs/riscv-admin/teams/riscv-devpartner-partners">RISC-V Technical Members</a> and actively involved in developing innovative solutions to bridge the gap of building the RISC-V economy.
+Welcome to my homepage! I am Shenwei Hu (胡深威), an ML Systems Engineer specialized in large model training infrastructure, with work spanning distributed training, framework optimization and heterogeneous hardware. Previously, I worked on the <a href='https://github.com/PaddlePaddle/Paddle/'>PaddlePaddle</a> Team, Baidu Inc.. 
+
+I pursued a Master's degree at Tsinghua University, where my focus lay in the areas of Binary Translation, RISC-V Toolchain, and Compiler development, under the guidance of the supervisors at <a href='https://www.rioslab.org/'>RISC-V International Open-Source (RIOS) Lab</a>. I was a member of the <a href="https://github.com/orgs/riscv-admin/teams/riscv-devpartner-partners">RISC-V Technical Members</a> and actively involved in developing innovative solutions to bridge the gap of building the RISC-V economy.
 
 Feel free to explore my projects and reach out to me if you'd like to connect and chat with me!
 
@@ -61,6 +63,8 @@ Feel free to explore my projects and reach out to me if you'd like to connect an
 
     - A binary translation tool aims at automatically learning instruction rules between assembly and LLVM IR, and translating guest binaries to host. Including preprocess, learning, verification and translation parts. 
 
+    - [**Project Link** (Frontend Part)](https://github.com/TBSI-RIOS-Lab/elf-lifter)
+
     - Key words: binary translation/rewrite/recompilation, binary analysis
 
 - **Automatic Test Generator for RISC-V Vector Extension (Open-source Project)**
@@ -77,12 +81,6 @@ Feel free to explore my projects and reach out to me if you'd like to connect an
 
     - Key words: computer architecture, microprocessor design
 
-- **Bug Owner Analysis based on Git Log**
-
-    - Designed and implemented a cutting-edge solution for bug tracking and accountability within the Git commit logs and core dump stack trace, optimizing the efficiency of bug identification and resolution. 
-
-    - Key words: software engineering, automatic testing
-
 
 # 🎖 Honors and Awards
 - *2023.01* SSCS "Code-a-Chip" Competition - First Prize 
@@ -94,19 +92,18 @@ Feel free to explore my projects and reach out to me if you'd like to connect an
 - *2021.12* First Prize Scholarship of UESTC 
 - *2020.12* First Prize Scholarship of UESTC 
 - *2019.12* First Prize Scholarship of UESTC 
-<!-- - *2021.06* LanQiaoBei Program Design and Algorithm Contest - National Third Prize  -->
 - *2021.03* Zhejiang University Programming Ability Test Advanced Level - Full Mark 
-- *2020.06* Mathematical Contest In Modeling - Meritorious Winner
-
-
+<!-- - *2020.06* Mathematical Contest In Modeling - Meritorious Winner  -->
+<!-- - *2021.06* LanQiaoBei Program Design and Algorithm Contest - National Third Prize  -->
 
 # 💻 Work Experiences
-- *2025.07 - Now*, Baidu, Inc., Software Engineer, China.
+- *2026.09 - Now*, An Internet Company, LLM Infra Engineer, China.
+- *2025.07 - 2026.09*, Baidu, Inc., LLM Infra Engineer, China.
 - *2024.06 - 2024.08*, Tencent Technology Co.,LTD., Summer Intern, China.
 - *2020.06 - 2020.08*, Tencent Technology Co.,LTD., Summer Intern, China.
 
 
-[Last Update: 6/Mar./2026]
+[Last Update: 28/Sep./2026]
 <br />
 <br />
 <br />
